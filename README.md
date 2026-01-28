@@ -43,14 +43,6 @@
 
 ---
 
-<p align="center">
-    <a href="https://github.com/sasindusachintha/github-readme-streak-stats">
-        <img title="🔥 GitHub Streak" alt="sasindu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sasindusachintha&theme=black-ice&hide_border=true"/>
-    </a>
-</p>
-
----
-
 ## 📊 My GitHub Stats
 
 <br/>
