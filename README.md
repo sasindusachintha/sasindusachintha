@@ -1,24 +1,26 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sasindu Sachintha</h1>
-<h3 align="center">IT Undergraduate 🎓 | C++ & Java Developer</h3>
+<h3 align="center">IT Undergraduate 🎓 | C++ & Java Developer | HD Student</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on **Academic & Personal Projects**
-- 👨🏻‍💻 Interested in **Programming, DSA & System Development**
-- 🌱 Currently learning **DSA, C++, Java & OpenCV**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **Coming Soon**
-- ⚡ Fun fact: **I enjoy coding, learning new tech, and building projects**
+I am currently studying a **Higher Diploma in Computing / Software Engineering** and enjoy building real-world software systems.  
+
+- 🔭 Working on **Academic & Personal Projects**  
+- 👨🏻‍💻 Interested in **Programming, DSA & System Development**  
+- 🌱 Currently learning **DSA, C++, Java & OpenCV**  
+- 👯 Looking to collaborate on **Open Source Projects**  
+- ⚡ Fun fact: **I enjoy coding, building systems, and learning new tech**  
+- 📫 Contact: **sasindusachintha1234@gmail.com**  
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Languages & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 <p>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -28,14 +30,17 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
-### Databases
+### 🗄 Databases
 <p>
 <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
 
-### Tools & Design
+### 🛠 Tools & Concepts
 <p>
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SDLC-000000?style=for-the-badge&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Analysis%20%26%20Design-2E8B57?style=for-the-badge"/>
 <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
@@ -43,9 +48,39 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 📘 **C++ – Bookshop Management System**
+✔ Menu-driven & OOP  
+✔ File Handling & CRUD Operations  
+✔ Login & User Management  
+✔ Sales Module  
+📂 Tech: C++, File I/O, OOP  
+
+### 🍰 **Java – Sweet Cupcake Shop GUI**
+✔ Java Swing Interface  
+✔ Customer & Order Management  
+✔ Automatic Bill Calculation  
+📂 Tech: Java, Swing, Event Handling  
+
+### 🌿 **GreenTrack – Database System**
+✔ Fully Normalized Database  
+✔ Relational ERD & Stored Queries  
+📂 Tech: SQL, Relational DB Design  
+
+---
+
+## 🌟 Goals
+- Become a **Professional Software Engineer**  
+- Master **C++, Java, SQL**, and software engineering fundamentals  
+- Build more **desktop, GUI, and database projects**  
+- Learn **Data Structures & Algorithms**  
+
+---
+
 ## 📊 My GitHub Stats
 
-<br/>
+<p align="center">
 <a href="https://github.com/sasindusachintha/github-readme-stats">
 <img alt="Sasindu Github Stats" src="https://github-readme-stats.vercel.app/api?username=sasindusachintha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
@@ -53,22 +88,24 @@
 <a href="https://github.com/sasindusachintha/github-readme-stats">
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindusachintha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-
-<br/>
+</p>
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-<!-- Add your real links later -->
-<a href="https://www.linkedin.com/in/sasindu-sachintha-0a418a37a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<a href="https://www.linkedin.com/in/sasindu-sachintha-0a418a37a/">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
 
 <a href="https://www.hackerrank.com/profile/sasindusachinth1">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
 </a>
 
+<a href="https://github.com/sasindusachintha">
+<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+</a>
 </p>
 
 ---
@@ -80,3 +117,7 @@
 <a href="https://github.com/sasindusachintha?tab=followers">
 <img src="https://img.shields.io/github/followers/sasindusachintha?label=Followers&style=social" />
 </a>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub! Check out my projects ⭐</h3>
