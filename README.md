@@ -89,11 +89,11 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 
 <p align="center">
 <a href="https://github.com/sasindusachintha/github-readme-stats">
-<img alt="Sasindu Github Stats" src="https://github-readme-stats-sigma-orcin-46.vercel.app/api?username=sasindusachintha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Sasindu Github Stats" src="https://github-readme-stats.vercel.app/api?username=sasindusachintha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/sasindusachintha/github-readme-stats">
-<img alt="Top Languages" src="https://github-readme-stats-sigma-orcin-46.vercel.app/api/top-langs/?username=sasindusachintha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindusachintha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 </p>
 
