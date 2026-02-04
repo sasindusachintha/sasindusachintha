@@ -88,13 +88,15 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 ## 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/sasindusachintha/github-readme-stats">
-<img alt="Sasindu Github Stats" src="https://github-readme-stats.vercel.app/api?username=sasindusachintha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/sasindusachintha/github-readme-stats">
+    <img alt="Sasindu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sasindusachintha&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  </a>
 
-<a href="https://github.com/sasindusachintha/github-readme-stats">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindusachintha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/sasindusachintha/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindusachintha&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 
