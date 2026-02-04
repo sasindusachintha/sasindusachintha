@@ -88,15 +88,22 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/sasindusachintha/github-readme-stats">
-    <img alt="Sasindu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sasindusachintha&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  </a>
 
-  <!-- Top Languages Card -->
-  <a href="https://github.com/sasindusachintha/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindusachintha&langs_count=8&layout=compact&theme=radical&hide_border=true" />
-  </a>
+<!-- Followers -->
+![GitHub Followers](https://img.shields.io/github/followers/sasindusachintha?label=Followers&style=social)
+
+<!-- Stars -->
+![GitHub Stars](https://img.shields.io/github/stars/sasindusachintha?style=social)
+
+<!-- Repositories -->
+![GitHub Repos](https://img.shields.io/github/repos/sasindusachintha?style=social)
+
+<!-- Forks -->
+![GitHub Forks](https://img.shields.io/github/forks/sasindusachintha?style=social)
+
+<!-- Top Languages (pie chart style) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindusachintha&layout=compact&theme=tokyonight&hide_border=true)
+
 </p>
 
 
