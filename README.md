@@ -11,7 +11,7 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 
 - 🔭 Working on **Academic & Personal Projects**  
 - 👨🏻‍💻 Interested in **Programming, DSA & System Development**  
-- 🌱 Currently learning **DSA, C++, Java & OpenCV**  
+- 🌱 Currently learning **Advanced DSA, C++, Java & OpenCV**  
 - 👯 Looking to collaborate on **Open Source Projects**  
 - ⚡ Fun fact: **I enjoy coding, building systems, and learning new tech**  
 - 📫 Contact: **sasindusachintha1234@gmail.com**  
