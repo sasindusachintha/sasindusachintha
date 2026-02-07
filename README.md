@@ -81,7 +81,7 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 - Become a **Professional Software Engineer**  
 - Master **C++, Java, SQL**, and software engineering fundamentals  
 - Build more **desktop, GUI, and database projects**  
-- Learn **Data Structures & Algorithms**  
+- Advanced Research in **Data Structures & Algorithms**
 
 ---
 
