@@ -50,10 +50,6 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
   <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="Dev-C++">
 </a>
-  <a href="https://netbeans.apache.org/download/index.html" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/netbeans.png"/>
-</a>
-
 </p>
 
 ---
