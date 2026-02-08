@@ -47,6 +47,9 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 <a href="https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SSMS">
 </a>
+  <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="Dev-C++">
+</a>
 </p>
 
 ---
