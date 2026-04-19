@@ -56,6 +56,7 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 
 ## 📌 Featured Projects
 
+
 ### 💬 **Java – JavaChatApp (Chat Application)**  
 ✔ Java real-time chat app (Server + Client)  
 ✔ Java Socket Programming  
