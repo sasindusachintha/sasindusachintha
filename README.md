@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sasindu Sachintha</h1>
-<h3 align="center">IT Undergraduate 🎓 | C++ & Java Developer | HD Student</h3>
+<h3 align="center"> IT Undergraduate 🎓 | C++ & Java Developer | HD Student</h3>
 
 ---
 
