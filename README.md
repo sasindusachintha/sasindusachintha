@@ -127,7 +127,6 @@ I am currently studying a **Higher Diploma in Computing / Software Engineering**
 ## ❤ Views and Followers
 
 <img src="https://komarev.com/ghpvc/?username=sasindusachintha">
-
 <a href="https://github.com/sasindusachintha?tab=followers">
 <img src="https://img.shields.io/github/followers/sasindusachintha?label=Followers&style=social" />
 </a>
